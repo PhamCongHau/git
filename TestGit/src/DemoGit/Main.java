@@ -12,6 +12,7 @@ public class Main {
 	public static void displaygreeting(){
 		System.out.println("Hello");
 		System.out.println("Xin Chao");
+		System.out.println("Xin chao tiep");
 	}
 
 }
